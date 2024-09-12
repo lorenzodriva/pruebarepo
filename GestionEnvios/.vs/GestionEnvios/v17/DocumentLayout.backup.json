@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iorfei\\source\\repos\\GestionEnvios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{636CD960-F15B-4AB9-84B4-A820AE93D0BB}|GestionEnvios\\GestionEnvios.csproj|c:\\users\\iorfei\\source\\repos\\gestionenvios\\gestionenvios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636CD960-F15B-4AB9-84B4-A820AE93D0BB}|GestionEnvios\\GestionEnvios.csproj|solutionrelative:gestionenvios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iorfei\\source\\repos\\GestionEnvios\\GestionEnvios\\Program.cs",
+              "RelativeDocumentMoniker": "GestionEnvios\\Program.cs",
+              "ToolTip": "C:\\Users\\iorfei\\source\\repos\\GestionEnvios\\GestionEnvios\\Program.cs",
+              "RelativeToolTip": "GestionEnvios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:42:48.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
